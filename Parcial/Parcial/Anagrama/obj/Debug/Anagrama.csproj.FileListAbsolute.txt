@@ -1,0 +1,6 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\bin\Debug\Anagrama.exe.config
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\bin\Debug\Anagrama.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\bin\Debug\Anagrama.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\obj\Debug\Anagrama.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Anagrama\obj\Debug\Anagrama.pdb

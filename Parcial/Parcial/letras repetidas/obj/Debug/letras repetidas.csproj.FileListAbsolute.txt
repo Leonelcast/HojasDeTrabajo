@@ -1,0 +1,7 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\obj\Debug\letras repetidas.csprojResolveAssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\obj\Debug\letras repetidas.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\bin\Debug\letras repetidas.exe.config
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\bin\Debug\letras repetidas.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\bin\Debug\letras repetidas.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\obj\Debug\letras repetidas.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\letras repetidas\obj\Debug\letras repetidas.pdb

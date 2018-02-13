@@ -1,0 +1,7 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Parcial\obj\Debug\Parcial.pdb

@@ -1,0 +1,6 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\obj\Debug\Numeros ordenados.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\bin\Debug\Numeros ordenados.exe.config
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\bin\Debug\Numeros ordenados.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\bin\Debug\Numeros ordenados.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\obj\Debug\Numeros ordenados.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\Parcial\Parcial\Numeros ordenados\obj\Debug\Numeros ordenados.pdb
