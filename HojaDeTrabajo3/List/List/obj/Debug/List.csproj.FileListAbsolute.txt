@@ -1,0 +1,2 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo3\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo3\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
