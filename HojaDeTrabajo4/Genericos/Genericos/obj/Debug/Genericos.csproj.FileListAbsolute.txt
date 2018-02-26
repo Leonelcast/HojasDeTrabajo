@@ -1,0 +1,2 @@
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo4\Genericos\Genericos\obj\Debug\Genericos.csprojResolveAssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo4\Genericos\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
