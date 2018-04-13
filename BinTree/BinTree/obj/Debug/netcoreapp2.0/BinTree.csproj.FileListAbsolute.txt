@@ -1,0 +1,11 @@
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\bin\Debug\netcoreapp2.0\BinTree.deps.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\bin\Debug\netcoreapp2.0\BinTree.runtimeconfig.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\bin\Debug\netcoreapp2.0\BinTree.runtimeconfig.dev.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\bin\Debug\netcoreapp2.0\BinTree.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\bin\Debug\netcoreapp2.0\BinTree.pdb
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.csprojResolveAssemblyReference.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.csproj.CoreCompileInputs.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.AssemblyInfoInputs.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.AssemblyInfo.cs
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTree\obj\Debug\netcoreapp2.0\BinTree.pdb

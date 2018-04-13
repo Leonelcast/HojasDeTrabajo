@@ -1,0 +1,16 @@
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTreeTests.deps.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTreeTests.runtimeconfig.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTreeTests.runtimeconfig.dev.json
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTreeTests.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTreeTests.pdb
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTree.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\bin\Debug\netcoreapp2.0\BinTree.pdb
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.csprojResolveAssemblyReference.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.AssemblyInfoInputs.cache
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.AssemblyInfo.cs
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.dll
+C:\Users\Javier Alvarez\Desktop\Semana 10\ejemplos\BinTree\BinTreeTests\obj\Debug\netcoreapp2.0\BinTreeTests.pdb
