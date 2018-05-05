@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ParseTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ParseTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParseTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParseTree/1.0.0": {
+      "type": "project",
+      "path": "../ParseTree/ParseTree.csproj",
+      "msbuildProject": "../ParseTree/ParseTree.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "ParseTree >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leone\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Documentos\\informatica2\\HojaDeTrabajo8\\ParseTreeTest\\ParseTreeTest.csproj",
+      "projectName": "ParseTreeTest",
+      "projectPath": "C:\\Users\\leone\\OneDrive\\Documentos\\informatica2\\HojaDeTrabajo8\\ParseTreeTest\\ParseTreeTest.csproj",
+      "packagesPath": "C:\\Users\\leone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leone\\OneDrive\\Documentos\\informatica2\\HojaDeTrabajo8\\ParseTreeTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\leone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {
+            "C:\\Users\\leone\\OneDrive\\Documentos\\informatica2\\HojaDeTrabajo8\\ParseTree\\ParseTree.csproj": {
+              "projectPath": "C:\\Users\\leone\\OneDrive\\Documentos\\informatica2\\HojaDeTrabajo8\\ParseTree\\ParseTree.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\leone\OneDrive\Documentos\informatica2\HojaDeTrabajo9\Heap\Heap\obj\Debug\Heap.pdb
